@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="Get_Productdata">https://mobiletest-hackathon.herokuapp.com/getdata/</string>
+</resources>
